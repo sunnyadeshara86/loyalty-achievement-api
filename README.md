@@ -1,1 +1,1 @@
-# loyalty-achievement-api
+# Loyalty Achievement API
